@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ritushree2065/ritushree2065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 2nd year CSE student, exploring the world of programming!
 
-Here are some ideas to get you started:
+### 👩‍💻 What I know:
+- ✅ C Programming
+- ✅ Java (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Data Structures
+- Object-Oriented Programming
+
+### 🎯 Goals:
+- Learn Git and GitHub
+- Build small Java projects
+- Collaborate on beginner-friendly open source
+
+---
+
+📫 *How to reach me:* [2024-1-60-312@std.ewubd.edu]
